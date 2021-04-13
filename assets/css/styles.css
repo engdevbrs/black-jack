@@ -1,0 +1,10 @@
+html,body {
+    margin: 0px;
+    background-color: darkslategrey;
+}
+
+.cabecera {
+    text-align: center;
+    background-color: aqua;
+    color:darkslategray;
+}
