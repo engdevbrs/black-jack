@@ -1,10 +1,13 @@
-html,body {
-    margin: 0px;
-    background-color: darkslategrey;
+html,
+body {
+  margin: 0px;
+  background-color: darkslategrey;
 }
 
 .cabecera {
-    text-align: center;
-    background-color: aqua;
-    color:darkslategray;
+  text-align: center;
+  background-color: aqua;
+  color: darkslategray;
+  font-size: 30px;
+  padding: 15px;
 }
